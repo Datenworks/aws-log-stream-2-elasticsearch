@@ -8,7 +8,6 @@
 - terraform
 - python3.x
 - boto3 - python dependency
-- Make GNU
 ```
 
 ### First of all
